@@ -1,0 +1,11 @@
+.isBlank{
+    display: none;
+    color: darkblue;
+}
+.wrong_input{
+    display: none;
+    color: darkblue;
+}
+.makeInvisible{
+    display: none;
+}
